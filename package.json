@@ -1,0 +1,18 @@
+{
+  "name": "m3sen_test_calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nuxt": "^3.0.0-rc.1",
+    "sass": "^1.58.0"
+  }
+}
